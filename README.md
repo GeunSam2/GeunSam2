@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=SRE+Engineer+%40+Daangn+%F0%9F%A5%95;Building+Cloud+Native+Infrastructure+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Kubernetes+%7C+ArgoCD+%7C+DevOps+%7C+GitOps)](https://github.com/geunsam2)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeunsam2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)](https://github.com/geunsam2)
+![Profile Views](https://komarev.com/ghpvc/?username=geunsam2&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -75,7 +75,7 @@ motto: "Automate everything, monitor everything, improve everything"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=geunsam2&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=geunsam2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -96,14 +96,16 @@ motto: "Automate everything, monitor everything, improve everything"
 <div align="center">
 
 <a href="https://github.com/geunsam2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geunsam2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="GeunSam2's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=geunsam2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GeunSam2's GitHub Stats" />
 </a>
 <a href="https://github.com/geunsam2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geunsam2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geunsam2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" alt="Top Languages" />
 </a>
 
+<br/>
+
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=geunsam2&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=geunsam2&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </a>
 
 </div>
