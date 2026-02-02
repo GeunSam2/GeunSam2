@@ -71,14 +71,6 @@ motto: "Automate everything, monitor everything, improve everything"
 **ML & Data**
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=geunsam2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
 ## 🌟 Open Source Contributions
 
 <div align="center">
@@ -91,12 +83,11 @@ motto: "Automate everything, monitor everything, improve everything"
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
 
-![GeunSam2's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=geunsam2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=geunsam2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css)
+![Metrics](https://raw.githubusercontent.com/geunsam2/geunsam2/github-metrics/github-metrics.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=geunsam2&theme=tokyonight&hide_border=true&background=0d1117)
 
