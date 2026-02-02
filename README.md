@@ -75,7 +75,7 @@ motto: "Automate everything, monitor everything, improve everything"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=geunsam2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=geunsam2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -95,18 +95,10 @@ motto: "Automate everything, monitor everything, improve everything"
 
 <div align="center">
 
-<a href="https://github.com/geunsam2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=geunsam2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GeunSam2's GitHub Stats" />
-</a>
-<a href="https://github.com/geunsam2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geunsam2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" alt="Top Languages" />
-</a>
+![GeunSam2's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=geunsam2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=geunsam2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css)
 
-<br/>
-
-<a href="https://git.io/streak-stats">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=geunsam2&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=geunsam2&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
