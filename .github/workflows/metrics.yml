@@ -34,5 +34,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
-          plugin_notable: yes
-          plugin_notable_from: organization
