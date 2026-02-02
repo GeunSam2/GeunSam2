@@ -87,7 +87,7 @@ motto: "Automate everything, monitor everything, improve everything"
 
 <div align="center">
 
-![Metrics](https://raw.githubusercontent.com/geunsam2/geunsam2/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/geunsam2/geunsam2/main/github-metrics.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=geunsam2&theme=tokyonight&hide_border=true&background=0d1117)
 
