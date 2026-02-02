@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Hi,%20I'm%20GeunSam2&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SRE%20Engineer%20%7C%20Cloud%20Native%20Enthusiast&descAlignY=52&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=SRE+Engineer+%40+Daangn+%F0%9F%A5%95;Building+Cloud+Native+Infrastructure+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Kubernetes+%7C+ArgoCD+%7C+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=SRE+Engineer+%40+Daangn+%F0%9F%A5%95;Building+Cloud+Native+Infrastructure+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Kubernetes+%7C+ArgoCD+%7C+DevOps+%7C+GitOps)](https://github.com/geunsam2)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeunsam2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)](https://github.com/geunsam2)
 
